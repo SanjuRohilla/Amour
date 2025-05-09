@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+body{
+  background-color: #fe96d1;
+  background-image: url('./assets/bg.png');
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  scroll-behavior: unset;
+  /* background: linear-gradient(to right, #bd125c,#299cbc, #ae39fcee); */
+}
